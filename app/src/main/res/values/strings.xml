@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Click</string>
+    <string name="counter_hint">0</string>
+</resources>
